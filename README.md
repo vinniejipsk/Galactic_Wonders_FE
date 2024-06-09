@@ -23,10 +23,13 @@ Flexible Purchase Options: Customers enjoy flexible purchase options, ranging fr
 With Express + Node.js, Galactic Wonders seamlessly delivers toy listings to the frontend while efficiently managing guest interactions and purchases. Whether browsing, buying, or subscribing, our backend infrastructure ensures a seamless journey through the cosmos of toys.
 
 # Figma
-![image](https://github.com/vinniejipsk/Galactic_Wonders_FE/assets/141219700/fd3d85ea-bfcf-4bf4-92fd-000435cb8fca)
-![image](https://github.com/vinniejipsk/Galactic_Wonders_FE/assets/141219700/3ae79fa3-a8d3-4a85-ba65-269dd27b00e4)
-![image](https://github.com/vinniejipsk/Galactic_Wonders_FE/assets/141219700/fea4b750-7310-4762-ade5-aed32aa68742)
-![image](https://github.com/vinniejipsk/Galactic_Wonders_FE/assets/141219700/7ac7acc7-26ca-46ba-89cf-3d1327e3bbce)
+
+![1_Home](https://github.com/vinniejipsk/Galactic_Wonders_FE/assets/141219700/1b9942ba-74f4-4af5-953e-dcf49b99565f)
+![2_Store](https://github.com/vinniejipsk/Galactic_Wonders_FE/assets/141219700/e890ed2f-9486-443c-a79b-334f07a232fa)
+![3_Cart_Summary_Mini](https://github.com/vinniejipsk/Galactic_Wonders_FE/assets/141219700/fbcc835e-104d-47b6-aa18-34a5e5e8610b)
+![4_Store_Item_Selected](https://github.com/vinniejipsk/Galactic_Wonders_FE/assets/141219700/2dd49c7f-e6bd-41b1-9623-fce60ba2bd10)
+![5_Store_Item_Detailed](https://github.com/vinniejipsk/Galactic_Wonders_FE/assets/141219700/741d8472-9bfa-456b-9589-9c73ab99d7da)
+![6_Checkout](https://github.com/vinniejipsk/Galactic_Wonders_FE/assets/141219700/0b7d0037-efc0-4de1-9c81-2d1a11827d24)
 
 Other features are coming soon.
 
