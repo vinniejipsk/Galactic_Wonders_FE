@@ -26,9 +26,9 @@ With Express + Node.js, Galactic Wonders seamlessly delivers toy listings to the
 
 ![1_Home](https://github.com/vinniejipsk/Galactic_Wonders_FE/assets/141219700/1b9942ba-74f4-4af5-953e-dcf49b99565f)
 ![2_Store](https://github.com/vinniejipsk/Galactic_Wonders_FE/assets/141219700/e890ed2f-9486-443c-a79b-334f07a232fa)
-![3_Cart_Summary_Mini](https://github.com/vinniejipsk/Galactic_Wonders_FE/assets/141219700/fbcc835e-104d-47b6-aa18-34a5e5e8610b)
-![4_Store_Item_Selected](https://github.com/vinniejipsk/Galactic_Wonders_FE/assets/141219700/2dd49c7f-e6bd-41b1-9623-fce60ba2bd10)
-![5_Store_Item_Detailed](https://github.com/vinniejipsk/Galactic_Wonders_FE/assets/141219700/741d8472-9bfa-456b-9589-9c73ab99d7da)
+![3_Store_Item_Selected](https://github.com/vinniejipsk/Galactic_Wonders_FE/assets/141219700/2dd49c7f-e6bd-41b1-9623-fce60ba2bd10)
+![4_Cart_Summary_Mini](https://github.com/vinniejipsk/Galactic_Wonders_FE/assets/141219700/fbcc835e-104d-47b6-aa18-34a5e5e8610b)
+![5_Cart_Summary_Detailed](https://github.com/vinniejipsk/Galactic_Wonders_FE/assets/141219700/741d8472-9bfa-456b-9589-9c73ab99d7da)
 ![6_Checkout](https://github.com/vinniejipsk/Galactic_Wonders_FE/assets/141219700/0b7d0037-efc0-4de1-9c81-2d1a11827d24)
 
 Other features are coming soon.
